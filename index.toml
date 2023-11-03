@@ -26,8 +26,18 @@ hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
 metafile = true
 
 [[files]]
@@ -56,6 +66,11 @@ hash = "2f92bb1aea927bab8e4b18840c5498a971c21e211d9e74a51304c3377a311110"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
 metafile = true
@@ -66,8 +81,28 @@ hash = "71695d63b9b1962e7e12680647a00ec1f08256d90ff940c56b88f0c16ead67e2"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "4b41a8eb5c73f765d22e35e9893f477bdd220903f3cf338bfa3151dfd56cd457"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems.pw.toml"
+hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
 metafile = true
 
 [[files]]
@@ -76,8 +111,8 @@ hash = "01c10cfd11d12d8886aaabd2bdb52f5cc85797932dea91cf9437ea126cd1560e"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.pw.toml"
-hash = "dc14e27af1dee392be1161ee2d111dee6eddc8d80922b397c0b1efc3ec8ea51a"
+file = "mods/veinminer.pw.toml"
+hash = "693902f20021192671f635f8462e44d1d3e2ca50ac7a92b9a2f01fc03fa704ba"
 metafile = true
 
 [[files]]
