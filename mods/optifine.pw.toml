@@ -1,0 +1,11 @@
+name = "Optifine"
+filename = "OptiFine_1.7.10_HD_U_E7_MOD.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/794017773893189655/1169773278798290964/OptiFine_1.7.10_HD_U_E7_MOD.jar?ex=65569f43&is=65442a43&hm=a834d760b97ee4ee7a4a65289c27eb22ac838493c76e8ab4a4d11c08030c918f&"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "817e6c5722b4b97c4ab3efb950974f2b86b512d4a70cfd91a34fd1601c72bebb"

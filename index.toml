@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/hbms-nuclear-tech-mod.pw.toml"
+hash = "8427ce0e215c471ed1613dabcdc90ca4eac05d1fb2293ebd6122a0ca78185259"
+metafile = true
+
+[[files]]
+file = "mods/vics-modern-warfare-mod.pw.toml"
+hash = "f39ae5871a975043eeab3f3809d4adf9b80364bfff1bba01345e885cd271b30c"
+metafile = true
