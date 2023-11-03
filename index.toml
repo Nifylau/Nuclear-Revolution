@@ -45,10 +45,6 @@ file = "mods/journeymap.pw.toml"
 hash = "71695d63b9b1962e7e12680647a00ec1f08256d90ff940c56b88f0c16ead67e2"
 metafile = true
 
-[[files]]
-file = "mods/mcheli-minecraft-helicopter-mod.pw.toml"
-hash = "9585aead02fc112cd2e4ef70e51d07bd043ade9f3f2d062379c6a809db40b658"
-metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
