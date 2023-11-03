@@ -1,8 +1,63 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "a979cfe0c5da4983086182892d7e4ffebddbdf053d3e531482c92a8340e8dace"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
+metafile = true
+
+[[files]]
 file = "mods/hbms-nuclear-tech-mod.pw.toml"
 hash = "8427ce0e215c471ed1613dabcdc90ca4eac05d1fb2293ebd6122a0ca78185259"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "2f92bb1aea927bab8e4b18840c5498a971c21e211d9e74a51304c3377a311110"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "71695d63b9b1962e7e12680647a00ec1f08256d90ff940c56b88f0c16ead67e2"
+metafile = true
+
+[[files]]
+file = "mods/mcheli-minecraft-helicopter-mod.pw.toml"
+hash = "9585aead02fc112cd2e4ef70e51d07bd043ade9f3f2d062379c6a809db40b658"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "dc14e27af1dee392be1161ee2d111dee6eddc8d80922b397c0b1efc3ec8ea51a"
 metafile = true
 
 [[files]]
