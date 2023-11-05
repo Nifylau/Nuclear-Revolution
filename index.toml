@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/vics-modern-warfare-mod.pw.toml"
-hash = "f39ae5871a975043eeab3f3809d4adf9b80364bfff1bba01345e885cd271b30c"
+hash = "44abfa7449eecf17d64e3d065c31cfb0b5c0f4a23c8526fede45b1459bf8b188"
 metafile = true
