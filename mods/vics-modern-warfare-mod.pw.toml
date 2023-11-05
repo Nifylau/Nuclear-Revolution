@@ -1,13 +1,13 @@
 name = "Vic's Modern Warfare Mod [Discontinued]"
-filename = "mw_2.0-0.4.1_mc1.7.10.jar"
+filename = "mw-1.11.7.7_mc1.7.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7fd481d7c9dd966afca1bf25adec3c177d273339"
+hash = "cad612456d39d5d76c39491005170c96a1f37d37"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2756164
+file-id = 2604855
 project-id = 243788
