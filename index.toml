@@ -61,8 +61,8 @@ hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
+file = "mods/drcyanos-lootable-bodies.pw.toml"
+hash = "3f197a98c2963c2764977cf91dd4540b6135fbdd12baa3ca52cb03ddcba5be72"
 metafile = true
 
 [[files]]

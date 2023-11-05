@@ -1,0 +1,13 @@
+name = "DrCyano's Lootable Bodies"
+filename = "CyanosLootableBodies-1.7.10-backport_1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "260fd0972b19ec56a0ef3d6afd8624828fd9d99d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2276543
+project-id = 240968
