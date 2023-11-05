@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "01ce6f7ac188392f6f10c81b009cc6d50517e1f788c22aea9515f154ff0e429a"
+hash = "d731e26675f36b39feeeabb7283b9d61869b2aa6463d86cdda9e2784e36a8086"
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
