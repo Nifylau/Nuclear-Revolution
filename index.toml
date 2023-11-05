@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "db1dda200defbd9a28f9fe4cb0f9b5ef8dedd7596fea1f8da4737024350f689a"
+hash = "01462e7345af4251faedbe72acd0eac7af83be4e3708b51c87963915549e7ef4"
 
 [[files]]
 file = "mods/bag-o-sleep.pw.toml"
@@ -74,7 +74,6 @@ metafile = true
 file = "mods/hbms-nuclear-tech-mod.pw.toml"
 hash = "8427ce0e215c471ed1613dabcdc90ca4eac05d1fb2293ebd6122a0ca78185259"
 metafile = true
-
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
