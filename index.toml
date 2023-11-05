@@ -21,6 +21,11 @@ file = ".idea/workspace.xml"
 hash = "db1dda200defbd9a28f9fe4cb0f9b5ef8dedd7596fea1f8da4737024350f689a"
 
 [[files]]
+file = "mods/bag-o-sleep.pw.toml"
+hash = "1ad862c7b0652d7ad7330c0d6fd7dd17e55d42f69972de78e78b503ac498d5f5"
+metafile = true
+
+[[files]]
 file = "mods/better-builders-wands.pw.toml"
 hash = "49723e54538b79091584e28dd62b83894b7ced9efb95e9c8b73e4c3f7fefb72d"
 metafile = true
