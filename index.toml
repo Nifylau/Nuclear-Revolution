@@ -36,6 +36,11 @@ hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
 metafile = true
 
 [[files]]
+file = "mods/big-reactors.pw.toml"
+hash = "317d58f790be0d2fcf3fc1c682c293b1ef9e18f1aed616f2dc029fd311590c37"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/codechickencore.pw.toml"
 hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
