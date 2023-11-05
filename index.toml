@@ -21,6 +21,11 @@ file = ".idea/workspace.xml"
 hash = "d731e26675f36b39feeeabb7283b9d61869b2aa6463d86cdda9e2784e36a8086"
 
 [[files]]
+file = "mods/better-builders-wands.pw.toml"
+hash = "49723e54538b79091584e28dd62b83894b7ced9efb95e9c8b73e4c3f7fefb72d"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
 
 [[files]]
