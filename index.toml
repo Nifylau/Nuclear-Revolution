@@ -50,10 +50,6 @@ file = "mods/codechickencore-unofficial.pw.toml"
 hash = "aa5f41423d2daf4e497ade1c44ddb5f47fa8f826d7a476267e519aaa2ee02ff4"
 metafile = true
 
-[[files]]
-file = "mods/codechickenlib-unofficial.pw.toml"
-hash = "052ed9a58b97bc7a6207c5d2a949b48cc5d0f13aaf62dc31b5a6aa7bc69aa99e"
-metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
