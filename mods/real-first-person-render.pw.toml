@@ -1,0 +1,13 @@
+name = "Real First Person 2"
+filename = "Real First-Person Render-1.7.10-8.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22f9693563530ccf3ae72f0fb741e3219878b1d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2360702
+project-id = 248451

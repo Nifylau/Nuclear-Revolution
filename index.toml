@@ -36,18 +36,8 @@ hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
 metafile = true
 
 [[files]]
-file = "mods/big-reactors.pw.toml"
-hash = "317d58f790be0d2fcf3fc1c682c293b1ef9e18f1aed616f2dc029fd311590c37"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
-metafile = true
-
-[[files]]
-file = "mods/buildcraft.pw.toml"
-hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
 metafile = true
 
 [[files]]
@@ -56,13 +46,28 @@ hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "aa5f41423d2daf4e497ade1c44ddb5f47fa8f826d7a476267e519aaa2ee02ff4"
+metafile = true
+
+[[files]]
 file = "mods/codechickencore.pw.toml"
 hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
 metafile = true
 
 [[files]]
+file = "mods/codechickenlib-unofficial.pw.toml"
+hash = "052ed9a58b97bc7a6207c5d2a949b48cc5d0f13aaf62dc31b5a6aa7bc69aa99e"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "ed858eedaab2e93b2a4dbc031071548dc90ea77f4f7f2b9522f0b908fadb3e73"
 metafile = true
 
 [[files]]
@@ -76,13 +81,23 @@ hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
+metafile = true
+
+[[files]]
 file = "mods/drcyanos-lootable-bodies.pw.toml"
 hash = "3f197a98c2963c2764977cf91dd4540b6135fbdd12baa3ca52cb03ddcba5be72"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
+metafile = true
+
+[[files]]
 file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "8427ce0e215c471ed1613dabcdc90ca4eac05d1fb2293ebd6122a0ca78185259"
+hash = "0f3f5e169e3be22af8d140a7b1c72857ba48362050228db3cda340ec710d1146"
 metafile = true
 
 [[files]]
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
+file = "mods/item-blacklist.pw.toml"
+hash = "137356d7a93fd7738d5758cece01dde26dac0a146d7695d3becde8972cc270c1"
 metafile = true
 
 [[files]]
@@ -126,8 +146,8 @@ hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.pw.toml"
-hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "d29cf21afbab4d995955ce2f2726def06858f60c6ae3f10cc9a969bfa6ac4ad5"
 metafile = true
 
 [[files]]
@@ -136,11 +156,21 @@ hash = "01c10cfd11d12d8886aaabd2bdb52f5cc85797932dea91cf9437ea126cd1560e"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "693902f20021192671f635f8462e44d1d3e2ca50ac7a92b9a2f01fc03fa704ba"
+file = "mods/ore-excavation.pw.toml"
+hash = "6a29498710d564dbece4b415bb7b29c7fb66e0ea0cf66673c6a72e05e5a4d566"
 metafile = true
 
 [[files]]
-file = "mods/vics-modern-warfare-mod.pw.toml"
-hash = "f27225cf2920cd42c431f6384fe8bd3c5cb32e7bd5c9bda1e60ffd2ae77d32d7"
+file = "mods/real-first-person-render.pw.toml"
+hash = "45b9f93e7ba89cfeaa45f49ce21e36897705bba159365eab2486b4c80f3ffc59"
+metafile = true
+
+[[files]]
+file = "mods/realbench.pw.toml"
+hash = "21f7783fcf17865b08a85fb36362d491a7018e97796f3cc5127a65700e28d7d4"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
