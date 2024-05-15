@@ -91,6 +91,11 @@ hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
 
 [[files]]
+file = "mods/forge-backpacks.pw.toml"
+hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
+metafile = true
+
+[[files]]
 file = "mods/hbms-nuclear-tech-mod.pw.toml"
 hash = "9c5077eb6b5623137383a146d61c4ee27e5458787aa045544799fa8b5d92f4b8"
 metafile = true
