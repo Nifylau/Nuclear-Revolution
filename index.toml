@@ -21,6 +21,11 @@ file = ".idea/workspace.xml"
 hash = "14b1622786efc4dcd3f19e1e1d5df227fd2e1e1585338a399de5a196047bbec6"
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
+metafile = true
+
+[[files]]
 file = "mods/bag-o-sleep.pw.toml"
 hash = "1ad862c7b0652d7ad7330c0d6fd7dd17e55d42f69972de78e78b503ac498d5f5"
 metafile = true
