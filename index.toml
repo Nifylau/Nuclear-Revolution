@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "14b1622786efc4dcd3f19e1e1d5df227fd2e1e1585338a399de5a196047bbec6"
+hash = "a5548e845e83d53321c3569377f9a1846d456684fcce99a01e62d5889c43ba54"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -133,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/malisisdoors.pw.toml"
 hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
-metafile = true
-
-[[files]]
-file = "mods/mcheli-minecraft-helicopter-mod.pw.toml"
-hash = "9585aead02fc112cd2e4ef70e51d07bd043ade9f3f2d062379c6a809db40b658"
 metafile = true
 
 [[files]]
