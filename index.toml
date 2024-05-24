@@ -91,6 +91,11 @@ hash = "3f197a98c2963c2764977cf91dd4540b6135fbdd12baa3ca52cb03ddcba5be72"
 metafile = true
 
 [[files]]
+file = "mods/etfuturum.pw.toml"
+hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
