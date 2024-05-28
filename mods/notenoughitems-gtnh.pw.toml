@@ -1,0 +1,13 @@
+name = "NotEnoughItems Unofficial 1.7.10"
+filename = "NotEnoughItems-v2.6.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a74709220075e5b6a78e222d7e68bed468c65ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5375844
+project-id = 358228

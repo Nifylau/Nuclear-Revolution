@@ -151,6 +151,11 @@ hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
 
 [[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "4b3bba84367157a92235c239c9661eb534aebaf7b3a588d67192207cc3e88d06"
+metafile = true
+
+[[files]]
 file = "mods/ntm.pw.toml"
 hash = "c1531533947648ccdc0059d1100c5e1bba7f84b9ec2f87525468362668ee578e"
 metafile = true
