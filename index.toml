@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "01462e7345af4251faedbe72acd0eac7af83be4e3708b51c87963915549e7ef4"
+hash = "a78d64ab89a8c7eb28c10b5e9eb4ce40a475a94245330edeff5a200de7d2dd9e"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -58,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-core.pw.toml"
 hash = "024473b1564d4e12156f348634144bb5e599887c74e461460e7b841d54bda03e"
-metafile = true
-
-[[files]]
-file = "mods/codechickencore-unofficial.pw.toml"
-hash = "9a8ad9d3cffebaa3331f525030c28164e77711ebda0d7700798767b86b180f2b"
 metafile = true
 
 [[files]]
