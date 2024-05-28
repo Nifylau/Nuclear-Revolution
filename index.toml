@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "01462e7345af4251faedbe72acd0eac7af83be4e3708b51c87963915549e7ef4"
+hash = "25e6127e739ec9d8e48930893e6055c91422bbee29f74705b5825e9194257a36"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -106,11 +106,6 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "9c5077eb6b5623137383a146d61c4ee27e5458787aa045544799fa8b5d92f4b8"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
 metafile = true
@@ -158,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "5a0de20f305b1f0bc6ee49ab60b47ef7b0c8f04bdd1c4470a2c0e22305a5822d"
+metafile = true
+
+[[files]]
+file = "mods/ntm.pw.toml"
+hash = "c1531533947648ccdc0059d1100c5e1bba7f84b9ec2f87525468362668ee578e"
 metafile = true
 
 [[files]]
