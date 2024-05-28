@@ -106,11 +106,6 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "9c5077eb6b5623137383a146d61c4ee27e5458787aa045544799fa8b5d92f4b8"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
 metafile = true
@@ -158,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "4b3bba84367157a92235c239c9661eb534aebaf7b3a588d67192207cc3e88d06"
+metafile = true
+
+[[files]]
+file = "mods/ntm.pw.toml"
+hash = "c1531533947648ccdc0059d1100c5e1bba7f84b9ec2f87525468362668ee578e"
 metafile = true
 
 [[files]]
