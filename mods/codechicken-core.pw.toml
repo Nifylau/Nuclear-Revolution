@@ -1,0 +1,13 @@
+name = "CodeChicken Core"
+filename = "CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtposSQj/versions/8GyioK6H/CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+hash-format = "sha1"
+hash = "42340568aa6c7d6a9333e30540d4a9803d262f5d"
+
+[update]
+[update.modrinth]
+mod-id = "AtposSQj"
+version = "8GyioK6H"

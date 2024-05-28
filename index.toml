@@ -56,6 +56,11 @@ hash = "c82d6f89493ab5d9edc9ad5062d398509ef96edd0cb684ef0a32ac4f8eb23a9d"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-core.pw.toml"
+hash = "024473b1564d4e12156f348634144bb5e599887c74e461460e7b841d54bda03e"
+metafile = true
+
+[[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "9a8ad9d3cffebaa3331f525030c28164e77711ebda0d7700798767b86b180f2b"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
+file = "mods/nei.pw.toml"
+hash = "68415a750ea671f4ba67982fc2bbc242681fc12a17a974949b70d351a9ce8eaa"
 metafile = true
 
 [[files]]
