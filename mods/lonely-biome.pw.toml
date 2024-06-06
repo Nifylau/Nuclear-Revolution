@@ -1,0 +1,13 @@
+name = "Lonely Biome"
+filename = "lonelybiome-1.7.10-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0837ba8c7065439b1219e4cd6b5a165caf44e76a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287902
+project-id = 243006

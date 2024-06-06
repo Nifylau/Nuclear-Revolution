@@ -46,6 +46,11 @@ hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
 
 [[files]]
+file = "mods/cavecontrol.pw.toml"
+hash = "62ab5203bf6103befe83c8c26da511efdb512c41f975c71903ba38e58175b6da"
+metafile = true
+
+[[files]]
 file = "mods/chisel.pw.toml"
 hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "10b83aa2d49aa1a87a955bed03a01ba32793475f8d67c7dd4a63fbe119c0de50"
+metafile = true
+
+[[files]]
+file = "mods/lonely-biome.pw.toml"
+hash = "8148ea47b17b00177cee3a1acf5bbd12d11f4a3f11f7b3bb16043ed70d82de49"
 metafile = true
 
 [[files]]
