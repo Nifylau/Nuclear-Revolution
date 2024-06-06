@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "cdb0ec6d193180d1bf4088436d27298323814d94342bd63bfa636aa59e1d2509"
+hash = "01462e7345af4251faedbe72acd0eac7af83be4e3708b51c87963915549e7ef4"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
-hash = "e0547b735dd9ae078a6aece032931cfa9ae7a2f9b649eeb3456a5555948d3e35"
+hash = "a32ced99d4efa402fbcbdc805da64f0dbfd706cf6d276b959f0a9071304befa6"
 metafile = true
 
 [[files]]
