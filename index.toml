@@ -61,6 +61,11 @@ hash = "a32ced99d4efa402fbcbdc805da64f0dbfd706cf6d276b959f0a9071304befa6"
 metafile = true
 
 [[files]]
+file = "mods/cobblermod.pw.toml"
+hash = "a201c280f280df4eb3f115d2f3602664e9657bddf30aecfd0597ec26d8a51115"
+metafile = true
+
+[[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "9a8ad9d3cffebaa3331f525030c28164e77711ebda0d7700798767b86b180f2b"
 metafile = true

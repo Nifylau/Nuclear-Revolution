@@ -1,0 +1,13 @@
+name = "CobblerMod"
+filename = "cobblermod-beta-1_0_2_1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46a82b4016baa2f7978803404bb288e06493a601"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022057
+project-id = 686984
