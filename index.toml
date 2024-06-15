@@ -156,6 +156,11 @@ hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
+metafile = true
+
+[[files]]
 file = "mods/morpheus.pw.toml"
 hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
