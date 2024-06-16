@@ -211,6 +211,11 @@ hash = "21f7783fcf17865b08a85fb36362d491a7018e97796f3cc5127a65700e28d7d4"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "67a9302b56cdbd45129af629b5d22674d78e859505fd4cf8cbaec4e545f9174a"
+metafile = true
+
+[[files]]
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
