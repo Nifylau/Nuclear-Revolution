@@ -4,8 +4,7 @@
     <list default="true" id="e171193a-94ae-4ecf-a8ec-e4d13b34ed2a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/index.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mods/chunkpregenerator.pw.toml" beforeDir="false" afterPath="$PROJECT_DIR$/mods/chunkpregenerator.pw.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mods/ae2-additions.pw.toml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

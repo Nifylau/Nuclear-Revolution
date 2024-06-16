@@ -18,12 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "b963b99dc3eb15001de3bf0bea67d3d191107812863a49a20923bf69dd0ae448"
-
-[[files]]
-file = "mods/ae2-additions.pw.toml"
-hash = "a27901417edf3840e81433360e9dbcd88417e7753f9181ff21be5d9f114d7687"
-metafile = true
+hash = "90e60279474d1220bed62bde9441709e996e03d4d192cd96d1482e845015d4f2"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -113,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/etfuturum.pw.toml"
 hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
+metafile = true
+
+[[files]]
+file = "mods/extra-cells-2-samlam140330s-fork.pw.toml"
+hash = "2cfc94710554608853aea5f9543ee087f0b5c9515a70594e727a51f806710151"
 metafile = true
 
 [[files]]
