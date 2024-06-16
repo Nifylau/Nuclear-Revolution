@@ -21,6 +21,11 @@ file = ".idea/workspace.xml"
 hash = "b963b99dc3eb15001de3bf0bea67d3d191107812863a49a20923bf69dd0ae448"
 
 [[files]]
+file = "mods/ae2-additions.pw.toml"
+hash = "a27901417edf3840e81433360e9dbcd88417e7753f9181ff21be5d9f114d7687"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
 metafile = true

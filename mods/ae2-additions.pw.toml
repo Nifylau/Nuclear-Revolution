@@ -1,0 +1,13 @@
+name = "AE2-Additions"
+filename = "AE2-Additions-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8fc8f38e070c0a8c6ee01e7c81ed9ff04a92fb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3777792
+project-id = 605192
