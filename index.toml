@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "01462e7345af4251faedbe72acd0eac7af83be4e3708b51c87963915549e7ef4"
+hash = "f8ea031dca99fb93aeaf79f747a3b148dee02f9f97b2965ccfa7dcccf91a6b6e"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5a527a1927c8e222f6a347dec0f2548dcc87b47b95ab488740c6d78b6dee447b"
+hash = "32f57c7a232f9c2aff913854b5a6d945cab0875fafbbca8cee56b26f21a9cdd8"
 metafile = true
 
 [[files]]
@@ -222,10 +222,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f881ede7b4b57fca62076b93d5f40e45b29bb3f066b94ebdedef01b7baf1707"
+hash = "72a090a9684993e373a9b253fd57af8ef6105e23d133c1c9209e45d0c9bfd94d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b92e435601a6614691237d7c0a035307f2778d3e166e6abd06747e1596fdf235"
+hash = "bfdb2838054869ae68456b8803ba58dcf32fe3b27dd0e249396478ad062bb71d"
 metafile = true
