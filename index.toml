@@ -219,3 +219,13 @@ metafile = true
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9f881ede7b4b57fca62076b93d5f40e45b29bb3f066b94ebdedef01b7baf1707"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b92e435601a6614691237d7c0a035307f2778d3e166e6abd06747e1596fdf235"
+metafile = true
