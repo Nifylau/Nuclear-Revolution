@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Nuclear-Revolution.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "8d6b385bf43c8cca29e470c210ab821126436d7e0b7a133fe73dde615963d006"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "ca17b86415b2f1e798ebb408f608fee124673de00b6085fc8420046bbdb70850"
-
-[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
 metafile = true
