@@ -31,11 +31,6 @@ hash = "62ab5203bf6103befe83c8c26da511efdb512c41f975c71903ba38e58175b6da"
 metafile = true
 
 [[files]]
-file = "mods/chisel.pw.toml"
-hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
-metafile = true
-
-[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "a2a32c748c71871a7cb91322a379ea0c5a1f88f96d6b605901422be942e36ca6"
 metafile = true
