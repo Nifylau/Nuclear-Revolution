@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/etfuturum.pw.toml"
-hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
+hash = "7f6853742df5c59331d608433324225bf8f5e78a6d5c21a6b1cf0ba3a9ba2229"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm.pw.toml"
-hash = "ce9f775881aed46a62b7e7c7a81316ea3c36bf89447c1f4f85f19456166d3754"
+hash = "d353c5c806b5d96af51b515b80ac805eb4438a4712f56c51c85fe605069f8766"
 metafile = true
 
 [[files]]
