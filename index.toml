@@ -111,6 +111,11 @@ hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "59b0b65151b8f049eb544746ba45f95d9fad278a342a223c9c178a3411f8addc"
+metafile = true
+
+[[files]]
 file = "mods/extra-cells-2-samlam140330s-fork.pw.toml"
 hash = "2cfc94710554608853aea5f9543ee087f0b5c9515a70594e727a51f806710151"
 metafile = true
