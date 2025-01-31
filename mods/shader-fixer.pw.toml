@@ -1,0 +1,13 @@
+name = "Shader fixer"
+filename = "shadersfixer-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89975575b517e0f1cac58b59ce01b5ebc595a755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5995674
+project-id = 977626
