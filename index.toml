@@ -196,6 +196,11 @@ hash = "67a9302b56cdbd45129af629b5d22674d78e859505fd4cf8cbaec4e545f9174a"
 metafile = true
 
 [[files]]
+file = "mods/skinport.pw.toml"
+hash = "79993b195eb166cd8a454a0d1e45403afd1119bf906d9a78c2616d0423d5356f"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
