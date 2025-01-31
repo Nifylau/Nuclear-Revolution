@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
-hash = "21bc7dbef2ec0ec5136801e458c39ccfccacc16253603ee35cb6b1aff1d20eb1"
+hash = "a2a32c748c71871a7cb91322a379ea0c5a1f88f96d6b605901422be942e36ca6"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "8ed4a5db83ab437c5c4fdb009ca72158308666e81973a035ee0bdda92afb30c7"
+hash = "464fe8226a87e4a584c73f6517b151de339f01ce2a1ce56d8380d92c75264256"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/etfuturum.pw.toml"
-hash = "7f6853742df5c59331d608433324225bf8f5e78a6d5c21a6b1cf0ba3a9ba2229"
+hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "73e4686da380a52af662c49f68df340aea0da87ffe67e6f3a888c3eb6ac59868"
+hash = "32f57c7a232f9c2aff913854b5a6d945cab0875fafbbca8cee56b26f21a9cdd8"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "18c387319f15f8ccaa1866be66fae890d841a8af090f97155f1f623a0cdd61ad"
+hash = "3cc9065560789e9d63735517a2be9d970304de58929dcfe17170fbfc92b79b0f"
 metafile = true
 
 [[files]]
 file = "mods/ntm.pw.toml"
-hash = "d353c5c806b5d96af51b515b80ac805eb4438a4712f56c51c85fe605069f8766"
+hash = "ce9f775881aed46a62b7e7c7a81316ea3c36bf89447c1f4f85f19456166d3754"
 metafile = true
 
 [[files]]
@@ -207,10 +207,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "13c84090d54e20a1d0a7a1c1338a104fdd2edb0c6ee8189e57e9df7194f0d8a1"
+hash = "72a090a9684993e373a9b253fd57af8ef6105e23d133c1c9209e45d0c9bfd94d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a3e0ed2b54181cb36533fb2a4bb78d5ec4ef3bb81756f894febbcabf4b57714c"
+hash = "bfdb2838054869ae68456b8803ba58dcf32fe3b27dd0e249396478ad062bb71d"
 metafile = true

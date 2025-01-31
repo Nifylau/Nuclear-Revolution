@@ -1,13 +1,13 @@
 name = "Hbm's Nuclear Tech Mod"
-filename = "HBM-NTM-[1.0.27_X5193].jar"
+filename = "HBM-NTM-[1.0.27_X5027].jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M4Z75E5X/versions/2yNRgxZu/HBM-NTM-%5B1.0.27_X5193%5D.jar"
+url = "https://cdn.modrinth.com/data/M4Z75E5X/versions/zgZ6vLV3/HBM-NTM-%5B1.0.27_X5027%5D.jar"
 hash-format = "sha1"
-hash = "141a043d59bb3c70efa1405e28e3c94dc9abe5cd"
+hash = "ef272f076fcd0c8a4e142401ebbcaee80e26a228"
 
 [update]
 [update.modrinth]
 mod-id = "M4Z75E5X"
-version = "2yNRgxZu"
+version = "zgZ6vLV3"
