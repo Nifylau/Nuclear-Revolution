@@ -1,0 +1,13 @@
+name = "Extreme Sound Muffler: Legacy"
+filename = "esm-legacy-1.7.10-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee83712edefd962cf87ed71dbf01b99ed576dd52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5574586
+project-id = 1052470

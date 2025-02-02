@@ -96,6 +96,11 @@ hash = "2cfc94710554608853aea5f9543ee087f0b5c9515a70594e727a51f806710151"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler-legacy.pw.toml"
+hash = "9941d72f2afeb0d930dab05680cfd7914b3756d5f84c282789956f0043dae73e"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
