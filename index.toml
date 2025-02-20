@@ -51,6 +51,11 @@ hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
+file = "mods/computercraft.pw.toml"
+hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2d8979b5daa642fbc61126aa3dd68387e6e8cbaef875a8aa9d9a470b7f8fe698"
 metafile = true
@@ -111,6 +116,11 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
+file = "mods/hbms-nuclear-tech-mod.pw.toml"
+hash = "b5b1cf633887272d9495f5274f4c76732943adfe8a89dc8b8db7bb7daca2895c"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
 metafile = true
@@ -168,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "3cc9065560789e9d63735517a2be9d970304de58929dcfe17170fbfc92b79b0f"
-metafile = true
-
-[[files]]
-file = "mods/ntm.pw.toml"
-hash = "d353c5c806b5d96af51b515b80ac805eb4438a4712f56c51c85fe605069f8766"
 metafile = true
 
 [[files]]

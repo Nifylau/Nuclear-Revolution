@@ -3,11 +3,11 @@ filename = "HBM-NTM-[1.0.27_X5193].jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M4Z75E5X/versions/2yNRgxZu/HBM-NTM-%5B1.0.27_X5193%5D.jar"
 hash-format = "sha1"
 hash = "141a043d59bb3c70efa1405e28e3c94dc9abe5cd"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "M4Z75E5X"
-version = "2yNRgxZu"
+[update.curseforge]
+file-id = 6028711
+project-id = 235439
