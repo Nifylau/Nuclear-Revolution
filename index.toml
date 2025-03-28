@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "59b0b65151b8f049eb544746ba45f95d9fad278a342a223c9c178a3411f8addc"
+hash = "6e71ae60c1283f7b3699bf56cd211f74166e4c74132422186b0d8dcae443b6d1"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-first-person-render.pw.toml"
-hash = "1993d637752fdbc844683d86186a2a0be8d66cea4241efa8a654b4746481b6dd"
+hash = "c333d716c8ade839ecd0389aebdbe409a1be697f1884de8f9ab8deae327ad9f1"
 metafile = true
 
 [[files]]
@@ -222,10 +222,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72a090a9684993e373a9b253fd57af8ef6105e23d133c1c9209e45d0c9bfd94d"
+hash = "972d4bdd047d2b165bdf60506e2ff4587bda5e2ae505fb1a3ff187e154b1767b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bfdb2838054869ae68456b8803ba58dcf32fe3b27dd0e249396478ad062bb71d"
+hash = "c07e63f080119f08a46df564d71d504879560d94296f06445a8dbf54568f55a7"
 metafile = true
