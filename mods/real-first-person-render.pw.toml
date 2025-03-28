@@ -1,6 +1,6 @@
 name = "Real First Person 2"
 filename = "Real First-Person Render-1.7.10-8.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
