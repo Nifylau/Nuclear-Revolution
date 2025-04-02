@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "972d4bdd047d2b165bdf60506e2ff4587bda5e2ae505fb1a3ff187e154b1767b"
+hash = "0ccdc5e3f27dd11f037bcbf9d984acd5369b4a131d2d7315536b56abfbfd149d"
 metafile = true
 
 [[files]]
