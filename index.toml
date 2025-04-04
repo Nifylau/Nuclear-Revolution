@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "71db3e5af7e24829a82c40f738176918031d3f2127453ac951be9ddbc1ebd08f"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "a348e88e11670e8ff2c72667faada73afef3a38280ce388a0039ae900fa01c48"
 metafile = true
