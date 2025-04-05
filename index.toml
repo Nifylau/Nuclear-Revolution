@@ -31,11 +31,6 @@ hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "a2a32c748c71871a7cb91322a379ea0c5a1f88f96d6b605901422be942e36ca6"
-metafile = true
-
-[[files]]
 file = "mods/cobblermod.pw.toml"
 hash = "a201c280f280df4eb3f115d2f3602664e9657bddf30aecfd0597ec26d8a51115"
 metafile = true
