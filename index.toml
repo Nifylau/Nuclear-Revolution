@@ -176,6 +176,11 @@ hash = "3cc9065560789e9d63735517a2be9d970304de58929dcfe17170fbfc92b79b0f"
 metafile = true
 
 [[files]]
+file = "mods/ntm-space.pw.toml"
+hash = "ab3e6c39d6de02150bc1dda2977bd810893256f5a1fb2532d1a42f783a3f62b4"
+metafile = true
+
+[[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "6a29498710d564dbece4b415bb7b29c7fb66e0ea0cf66673c6a72e05e5a4d566"
 metafile = true
