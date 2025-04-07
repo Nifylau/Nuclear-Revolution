@@ -111,11 +111,6 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "b5b1cf633887272d9495f5274f4c76732943adfe8a89dc8b8db7bb7daca2895c"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "c4230a555dd028581640c08b17340f6cc0139120512d2ae48d7ad9292ddd0289"
 metafile = true
