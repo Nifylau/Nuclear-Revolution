@@ -176,8 +176,8 @@ hash = "3cc9065560789e9d63735517a2be9d970304de58929dcfe17170fbfc92b79b0f"
 metafile = true
 
 [[files]]
-file = "mods/ntm-space.pw.toml"
-hash = "ab3e6c39d6de02150bc1dda2977bd810893256f5a1fb2532d1a42f783a3f62b4"
+file = "mods/ntmspace.pw.toml"
+hash = "83c41a93e9632d271112116e47fcb0a888d374c293e432f75a9b09c18487d4e5"
 metafile = true
 
 [[files]]
