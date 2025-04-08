@@ -1,0 +1,17 @@
+name = "Schematica"
+filename = "Schematica-1.7.10-1.7.6.131-universal.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8e53b583f427b1801b47f87ab6135b645030bdad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2274295
+project-id = 225603
+
+[option]
+optional = true
+default = true

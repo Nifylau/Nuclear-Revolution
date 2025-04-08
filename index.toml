@@ -146,6 +146,11 @@ hash = "8148ea47b17b00177cee3a1acf5bbd12d11f4a3f11f7b3bb16043ed70d82de49"
 metafile = true
 
 [[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "03dbfc58c95772cf83cc794165d40afecda73fb9b29a4b645ce50006191973ce"
+metafile = true
+
+[[files]]
 file = "mods/malisiscore.pw.toml"
 hash = "4b41a8eb5c73f765d22e35e9893f477bdd220903f3cf338bfa3151dfd56cd457"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/realbench.pw.toml"
 hash = "21f7783fcf17865b08a85fb36362d491a7018e97796f3cc5127a65700e28d7d4"
+metafile = true
+
+[[files]]
+file = "mods/schematica.pw.toml"
+hash = "c5eaee46d71d51524f93644ada207ab22d4f4159f63f6fb21743d0348ca74ab8"
 metafile = true
 
 [[files]]
