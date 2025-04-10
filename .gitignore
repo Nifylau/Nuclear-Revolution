@@ -3,3 +3,8 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+.idea/misc.xml
+.idea/modules.xml
+.idea/Nuclear-Revolution.iml
+.idea/vcs.xml
+.idea/workspace.xml
