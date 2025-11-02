@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/Nuclear-Revolution.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "8d6b385bf43c8cca29e470c210ab821126436d7e0b7a133fe73dde615963d006"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "89b153f6b818f786d79a72c170e932d03564db566b87827989c5387dec40bf0c"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "71db3e5af7e24829a82c40f738176918031d3f2127453ac951be9ddbc1ebd08f"
 metafile = true
