@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/shader-fixer.pw.toml"
-hash = "8f3aaa908c57ada61b59f693d90f9e0f4d23ce2cda484c4d213269d73436e023"
+hash = "040cceb83bffd27c03e3d47c5fe1189323e9cf2739bb550edf9b45fb7ab32b0a"
 metafile = true
 
 [[files]]
