@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "3574ba09167641653cc3773c21c4102c20a2a2e72dd7b6a47fdd486f39e18862"
+hash = "1482f4939ae9e9a6ed03d51baf2364843c244b7fc402548de69580a535640726"
 metafile = true
 
 [[files]]
