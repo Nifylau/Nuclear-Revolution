@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "464fe8226a87e4a584c73f6517b151de339f01ce2a1ce56d8380d92c75264256"
+hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/etfuturum.pw.toml"
-hash = "928cb845e5f733b44c692a90356f07436b90c1b2933ca5ee6512e2a237514cdd"
+hash = "7f6853742df5c59331d608433324225bf8f5e78a6d5c21a6b1cf0ba3a9ba2229"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "0a7bc6d52f5b00bd566940dd5fe8420bb400bd8d5cbb8b5543c981adaa6f98ed"
+hash = "80ba992a760cf6d2fc3568f700ae1aa69450025edeb4395aab3ee351a7362b1d"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler-legacy.pw.toml"
-hash = "9941d72f2afeb0d930dab05680cfd7914b3756d5f84c282789956f0043dae73e"
+hash = "a84b7e496296e76ba86e6fc0f69a834b7383b04732ed69032eb2cef2fe75516e"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "32f57c7a232f9c2aff913854b5a6d945cab0875fafbbca8cee56b26f21a9cdd8"
+hash = "8dd9ea88497a7eef8b653ffe80f2b57257cba3d94f25fbc1d7546a8b4c7d8569"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "3cc9065560789e9d63735517a2be9d970304de58929dcfe17170fbfc92b79b0f"
+hash = "dc76107413513e7c146cf34fba5fc7ac9ec4eb9e8b4b008f4e606be8526e7a91"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "9b84a015e887f80d3443d09298620587c8cf743a9dda35df98e10e538af7a2fe"
+hash = "2cb73d0e114b1132088f60c4784f946a08e3c529ca6c29ada8105f34a895d5bd"
 metafile = true
 
 [[files]]
@@ -242,10 +242,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0ccdc5e3f27dd11f037bcbf9d984acd5369b4a131d2d7315536b56abfbfd149d"
+hash = "13c84090d54e20a1d0a7a1c1338a104fdd2edb0c6ee8189e57e9df7194f0d8a1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f0b054c5c09eaf46154dcdb7db80a9cf11f575ad3dcfb6a6d4074f92f710422d"
+hash = "a3e0ed2b54181cb36533fb2a4bb78d5ec4ef3bb81756f894febbcabf4b57714c"
 metafile = true
