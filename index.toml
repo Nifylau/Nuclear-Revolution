@@ -21,6 +21,11 @@ hash = "1ad862c7b0652d7ad7330c0d6fd7dd17e55d42f69972de78e78b503ac498d5f5"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "4b5ac7bf62e6719473c4aa40ff006b3c81a0bf586aa4ff560912ff9a44249eee"
+metafile = true
+
+[[files]]
 file = "mods/better-builders-wands.pw.toml"
 hash = "49723e54538b79091584e28dd62b83894b7ced9efb95e9c8b73e4c3f7fefb72d"
 metafile = true
