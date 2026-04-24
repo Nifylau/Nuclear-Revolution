@@ -1,0 +1,13 @@
+name = "Sound Physics Legacy"
+filename = "Sound-Physics-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b303e38307f5c6ce0ed9b5707465dab9ae149f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6162784
+project-id = 1194523

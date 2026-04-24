@@ -231,6 +231,11 @@ hash = "79993b195eb166cd8a454a0d1e45403afd1119bf906d9a78c2616d0423d5356f"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-legacy.pw.toml"
+hash = "2da43e9c90d6f564600091c77d4db7d5b1bbf67db0a4c30598239423e42e86d9"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
