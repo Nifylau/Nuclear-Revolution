@@ -91,6 +91,11 @@ hash = "3f197a98c2963c2764977cf91dd4540b6135fbdd12baa3ca52cb03ddcba5be72"
 metafile = true
 
 [[files]]
+file = "mods/enderlicious.pw.toml"
+hash = "0b791af7de47287cfc6ff330ebe327e349ec757af8c4589ad4e1624a415b5828"
+metafile = true
+
+[[files]]
 file = "mods/etfuturum.pw.toml"
 hash = "7f6853742df5c59331d608433324225bf8f5e78a6d5c21a6b1cf0ba3a9ba2229"
 metafile = true

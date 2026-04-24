@@ -1,0 +1,13 @@
+name = "Enderlicious"
+filename = "enderlicious-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5da613175d1050304d9fd36859de3e5de43d6b69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3504111
+project-id = 508777
