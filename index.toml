@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-legacy.pw.toml"
-hash = "2da43e9c90d6f564600091c77d4db7d5b1bbf67db0a4c30598239423e42e86d9"
+hash = "f7decc06d602f80c577fc8f2671732982ea17ffda440749355cad9359649387f"
 metafile = true
 
 [[files]]

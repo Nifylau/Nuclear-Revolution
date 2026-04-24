@@ -1,6 +1,6 @@
 name = "Sound Physics Legacy"
 filename = "Sound-Physics-1.7.10.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
