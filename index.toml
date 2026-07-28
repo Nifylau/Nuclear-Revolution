@@ -6,6 +6,11 @@ hash = "71db3e5af7e24829a82c40f738176918031d3f2127453ac951be9ddbc1ebd08f"
 metafile = true
 
 [[files]]
+file = "mods/angelica.pw.toml"
+hash = "db26984a535339270dd5dae3a926e4832ff4583866d3a9b9270a621fd23ed1fd"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
+metafile = true
+
+[[files]]
+file = "mods/chunkapi.pw.toml"
+hash = "e25027f6641e9f502cd39445f047a47729976e396343aa2c1d625d947e67c070"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "0b791af7de47287cfc6ff330ebe327e349ec757af8c4589ad4e1624a415b5828"
 metafile = true
 
 [[files]]
+file = "mods/endlessids.pw.toml"
+hash = "b6900fd39c70a016763ed02cd93be34d9a953a455c9442d80a0133a7f5a9d532"
+metafile = true
+
+[[files]]
 file = "mods/etfuturum.pw.toml"
 hash = "7f6853742df5c59331d608433324225bf8f5e78a6d5c21a6b1cf0ba3a9ba2229"
 metafile = true
@@ -113,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/forge-backpacks.pw.toml"
 hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "83f8abe142f9ee6f03e5f7a3e2de9ff18da4a80ce63edaae38a178937cd322d3"
+metafile = true
+
+[[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "bb20fae1d0b96b314742c7d98c92963184144e096daabbd818b9bbbd2e7a8596"
 metafile = true
 
 [[files]]
