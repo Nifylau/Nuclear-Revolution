@@ -41,11 +41,6 @@ hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
 
 [[files]]
-file = "mods/cobblermod.pw.toml"
-hash = "a201c280f280df4eb3f115d2f3602664e9657bddf30aecfd0597ec26d8a51115"
-metafile = true
-
-[[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
 metafile = true
@@ -86,11 +81,6 @@ hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
 
 [[files]]
-file = "mods/drcyanos-lootable-bodies.pw.toml"
-hash = "3f197a98c2963c2764977cf91dd4540b6135fbdd12baa3ca52cb03ddcba5be72"
-metafile = true
-
-[[files]]
 file = "mods/enderlicious.pw.toml"
 hash = "0b791af7de47287cfc6ff330ebe327e349ec757af8c4589ad4e1624a415b5828"
 metafile = true
@@ -126,11 +116,6 @@ hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod.pw.toml"
-hash = "9772f0165231418aca0d4520be27f2d26443134afe97c2582419733200598b87"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "c4230a555dd028581640c08b17340f6cc0139120512d2ae48d7ad9292ddd0289"
 metafile = true
@@ -161,16 +146,6 @@ hash = "03dbfc58c95772cf83cc794165d40afecda73fb9b29a4b645ce50006191973ce"
 metafile = true
 
 [[files]]
-file = "mods/malisiscore.pw.toml"
-hash = "4b41a8eb5c73f765d22e35e9893f477bdd220903f3cf338bfa3151dfd56cd457"
-metafile = true
-
-[[files]]
-file = "mods/malisisdoors.pw.toml"
-hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "53c2f406ff57d75dfa543e622ebffa8a803d407553f99be40de53649fec1f4e0"
 metafile = true
@@ -196,8 +171,8 @@ hash = "dc76107413513e7c146cf34fba5fc7ac9ec4eb9e8b4b008f4e606be8526e7a91"
 metafile = true
 
 [[files]]
-file = "mods/ore-excavation.pw.toml"
-hash = "6a29498710d564dbece4b415bb7b29c7fb66e0ea0cf66673c6a72e05e5a4d566"
+file = "mods/ntm-space.pw.toml"
+hash = "4bbd8c3e0333c1317a8c5743431352b384721f9dde1bd3dead7b3c599f4306e6"
 metafile = true
 
 [[files]]
