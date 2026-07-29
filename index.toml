@@ -131,6 +131,11 @@ hash = "83f8abe142f9ee6f03e5f7a3e2de9ff18da4a80ce63edaae38a178937cd322d3"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
+metafile = true
+
+[[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "bb20fae1d0b96b314742c7d98c92963184144e096daabbd818b9bbbd2e7a8596"
 metafile = true
